@@ -12,4 +12,6 @@ When you run the code for a case, it will also generate a plot for:
 - The filter generated for the case
 - The restored image given the filter and the input image
 
+All this four plots is saved in just one figure (for each case) in the folder output_plots after you run the code and can be compared to the expected plot that is on Files_provided_by_the_teacher/test_cases_result_part1 or Files_provided_by_the_teacher/test_cases_result_part2 (depends on the case). 
+
 The number that the code prints it's the RMSE between the restored image and the reference image that is given for each case in the folder Files_provided_by_the_teacher/test_cases_reference 
