@@ -1,0 +1,49 @@
+Running case 1
+Error: 6.9878
+Execution time [s]: 5.364894866943359
+-----------------------------------
+Running case 2
+Error: 10.0365
+Execution time [s]: 5.185873746871948
+-----------------------------------
+Running case 3
+Error: 4.9418
+Execution time [s]: 3.45863938331604
+-----------------------------------
+Running case 4
+Error: 5.1628
+Execution time [s]: 3.490730047225952
+-----------------------------------
+Running case 5
+Error: 5.8394
+Execution time [s]: 4.639490365982056
+-----------------------------------
+Running case 6
+Error: 7.8086
+Execution time [s]: 5.288915634155273
+-----------------------------------
+Running case 7
+Error: 7.5338
+Execution time [s]: 11.244494438171387
+-----------------------------------
+Running case 8
+Error: 9.3674
+Execution time [s]: 24.82313346862793
+-----------------------------------
+Running case 9
+Error: 6.8016
+Execution time [s]: 11.522528171539307
+-----------------------------------
+Running case 10
+Error: 13.5717
+Execution time [s]: 17.085911512374878
+-----------------------------------
+Running case 11
+Error: 13.5560
+Execution time [s]: 9.282822370529175
+-----------------------------------
+Running case 12
+Error: 5.0266
+Execution time [s]: 10.337097644805908
+-----------------------------------
+Total execution time [s]: 111.72752714157104
